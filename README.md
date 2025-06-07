@@ -19,6 +19,7 @@ FaresTool allows you to Drag and Drop to its icon, and then automatically handle
 
 ## How to Use
 1- Launch FaresTool
+
 2-Drag and Drop .lua and .manifest to FaresTool icon
 
 ## Notes
