@@ -5,7 +5,7 @@
 **FaresTool** is a lightweight console utility for fetching Steam `.lua` and `.manifest` files directly from the fares.top Manifest Downloader. It provides a temporary workaround for issues in the latest Steam release, where SteamTool fails to add new games correctly.
 
 <p align="center">
-  <img src="[[https://github.com/your-username/fares_tool/assets/demo.gif](https://i.postimg.cc/xjNY03CL/sung-jin-woo-new-episode.gif)](https://i.postimg.cc/xjNY03CL/sung-jin-woo-new-episode.gif)" alt="FaresTool Demo" width="600" />
+  <img src="[[https://i.postimg.cc/TYqP6J7C/image.png]]" alt="FaresTool Demo" width="600" />
 </p>
 
 ## Table of Contents
