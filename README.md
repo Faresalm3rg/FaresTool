@@ -1,6 +1,6 @@
 # FaresTool
 
-[![Release](https://img.shields.io/github/v/release/Faresalm3rg/FaresTool)](https://github.com/Faresalm3rg/FaresTool/releases)
+[![Release](https://img.shields.io/github/v/release/Faresalm3rg/FaresTool?tag=tools)](https://github.com/Faresalm3rg/FaresTool/releases)
 
 **FaresTool** is a lightweight console utility for fetching Steam `.lua` and `.manifest` files directly from the fares.top Manifest Downloader. It provides a temporary workaround for issues in the latest Steam release, where SteamTool fails to add new games correctly.
 
