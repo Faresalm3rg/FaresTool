@@ -1,8 +1,19 @@
 # FaresTool
 
-**FaresTool** is a lightweight console utility that simplifies the process of downloading Steam manifest and Lua files using the fares.top Manifest Downloader. Due to recent issues with the latest Steam update and SteamTool not correctly handling new game additions, FaresTool provides a workaround by allowing you to fetch the necessary `.lua` and `.manifest` files directly through the tool.
+[![Release](https://img.shields.io/github/v/release/your-username/fares_tool)](https://github.com/your-username/fares_tool/releases)
 
-![FaresTool Demo](https://github.com/your-username/fares_tool/assets/demo.gif)
+**FaresTool** is a lightweight console utility for fetching Steam `.lua` and `.manifest` files directly from the fares.top Manifest Downloader. It provides a temporary workaround for issues in the latest Steam release, where SteamTool fails to add new games correctly.
+
+<p align="center">
+  <img src="[[https://github.com/your-username/fares_tool/assets/demo.gif](https://i.postimg.cc/xjNY03CL/sung-jin-woo-new-episode.gif)](https://i.postimg.cc/xjNY03CL/sung-jin-woo-new-episode.gif)" alt="FaresTool Demo" width="600" />
+</p>
+
+## Table of Contents
+
+* [Features](#features)
+* [Requirements](#requirements)
+* [Usage](#usage)
+* [Support](#support)
 
 ## Features
 
@@ -11,17 +22,16 @@
 - Bypasses current bugs in the latest Steam version
 
 ## Requirements
-- Steam installed and running
-- SteamTool (installed but not necessarily fully functional) 
 
-## How It Works
-FaresTool allows you to Drag and Drop to its icon, and then automatically handles the placement of the necessary configuration files.
+* **Steam** installed and running on your system.
+* **SteamTool** (installed but not necessarily fully functional)
 
-## How to Use
-1- Launch FaresTool
+## Usage
 
-2-Drag and Drop .lua and .manifest to FaresTool icon
+* **Launch FaresTool** using the desktop shortcut or Start Menu .
+* **Drag & Drop** the `.lua` and `.manifest` files onto the tool’s icon.
+* FaresTool will automatically place the files into your Steam configuration directories and confirm success.
 
-## Notes
-- This tool is intended as a temporary workaround until SteamTool is updated or fixed.
-- Use at your own discretion; no files from Steam or your system are permanently modified.
+## Support
+
+For help or questions, join our Discord: [https://discord.gg/steamgames](https://discord.gg/steamgames)
